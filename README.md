@@ -1,6 +1,6 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-
-#About me
+# About me
 
 My Name is Nandha
+DevOps Trainer
