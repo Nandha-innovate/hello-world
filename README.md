@@ -5,5 +5,4 @@ This repository is for practicing the GitHub Flow.
 My Name is Nandha
 DevOps Trainer
 
-
 Handling Cloud also
